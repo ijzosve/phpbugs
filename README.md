@@ -5,7 +5,7 @@
 $a = isset($_GET['x']);
 $a_unser = unserialize($a);
 ```
-- Réponse <br/>
+- **Réponse** <br/><br/>
 <img src="https://media.discordapp.net/attachments/772278494977196032/772279077495111680/unknown.png"/><br/>
 **Notice: unserialize(): Error at offset 0 of 1 bytes in C:\wamp\www\izjosve\x.php on line 13**
 ### Solution
