@@ -1,5 +1,5 @@
 # phpbugs
-- Je stockerai ici les bugs que j'ai rencontré et fixé à main propre
+- Je stockerai ici les bugs que j'ai rencontré et fixé à main propre. Le développement c'est la recherche de solutions contre tout type de problèmes. Quand on voit la finalité d'un script, on oublie la sémantique du programme, comment il a été unifié par l'auteur, et le temps de travail que ça a coûté. Demandez à Mark Zuckerberg, combien de bug il a rencontré quand il développait facebook en alternance, il en rigolera. 
 ## Bug n°1
 ```PHP
 $a = isset($_GET['x']);
